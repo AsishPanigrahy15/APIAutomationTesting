@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationTesting"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.396">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequest1"
+                time="1.405"
+                classname="TestNg.Lab03">
+            </testcase>
+            <testcase
+                name="getRequest2"
+                time="1.478"
+                classname="TestNg.Lab03">
+            </testcase>
+            <testcase
+                name="getRequest"
+                time="1.513"
+                classname="TestNg.Lab03">
+            </testcase>
+</testsuite>
