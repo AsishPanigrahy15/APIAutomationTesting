@@ -46,5 +46,13 @@
       <version>2.30.0</version>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.assertj/assertj-core -->
+    <dependency>
+      <groupId>org.assertj</groupId>
+      <artifactId>assertj-core</artifactId>
+      <version>3.27.4</version>
+      <scope>test</scope>
+    </dependency>
+
   </dependencies>
 </project>
